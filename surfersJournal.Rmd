@@ -1,5 +1,5 @@
 ---
-title: <span style="color:red;">A Surfer's Journal</span><br /> or<br /><span style="color:red;">View from the Tube</span>
+title: <span style="color:red;">A Surfer's Journal</span><br /> or<br /><span style="color:blue;">View from the Tube</span>
 author: Brian B. Avants
 bibliography: REFERENCES.bib
 logo:    logo.png
@@ -197,5 +197,11 @@ over the falls ... saw this one coming a mile away but didnt paddle out far enou
 ## Cristobal in motion
 
 <div align="center"><iframe width="1280" height="780" src="//www.youtube.com/embed/WhCCD_MJ0Mg" frameborder="0" allowfullscreen></iframe></div>
+
+
+## Cristobal in motion
+
+<div align="center"><iframe width="1280" height="780" src="//www.youtube.com/embed/5-m2pgGTU-4" frameborder="0" allowfullscreen></iframe></div>
+
 
 # References {#reffont}

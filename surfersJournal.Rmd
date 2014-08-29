@@ -43,8 +43,7 @@ opts_chunk$set(fig.width=9, fig.height=6, fig.path=figpath,
 ## 
 <div align="center"><img src="./figures/ireland.png" frameborder="0"></img></div>
 
-This talk is online at [http://stnava.github.io/ANTsRegistrationTalk/](http://stnava.github.io/ANTsRegistrationTalk/) with colored [links](http://stnava.github.io/ANTsRegistrationTalk/) meant to be clicked for more information
+This talk is online at [http://stnava.github.io/SurfersJournal/](http://stnava.github.io/SurfersJournal/) with colored [links](http://stnava.github.io/SurfersJournal/) meant to be clicked for more information
 
 
 # References {#reffont}
-

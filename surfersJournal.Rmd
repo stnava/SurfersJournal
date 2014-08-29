@@ -1,5 +1,5 @@
 ---
-title: <span style="color:red;">A Surfer's Journal or<br />View from the Tube</span>
+title: <span style="color:red;">A Surfer's Journal</span><br /> or<br /><span style="color:red;">View from the Tube</span>
 author: Brian B. Avants
 bibliography: REFERENCES.bib
 logo:    logo.png
@@ -41,9 +41,77 @@ opts_chunk$set(fig.width=9, fig.height=6, fig.path=figpath,
 ```
 
 ## 
-<div align="center"><img src="./figures/ireland.png" frameborder="0"></img></div>
+<div align="center"><img src="./logo.png" frameborder="0"></img></div>
 
 This talk is online at [http://stnava.github.io/SurfersJournal/](http://stnava.github.io/SurfersJournal/) with colored [links](http://stnava.github.io/SurfersJournal/) meant to be clicked for more information
 
+
+## hours before the sun
+
+hear alarm
+
+check buoy wind
+
+make coffee
+
+oatmeal nuts
+
+text friends 
+
+prep boards
+
+suit boot gloves?
+
+roll ...  
+
+surfing from philly
+
+## the quiver: firewire dominator
+
+![](figures/dominator.jpg)
+
+## the quiver: firewire dominator
+
+![](figures/dominatorb.jpg)
+
+## the quiver: firewire vanguard
+
+![](figures/vanguard.jpg)
+
+## the quiver: zouvi blowfish 5'8
+
+![](figures/blowfish.png)
+
+## the quiver: wynn 5'8
+
+![](figures/wynn58.jpg)
+
+## the quiver: 6 x 19 x 2.5 wynn
+
+![](figures/wynn6.jpg)
+
+## the quiver: 6 x 19 x 2.5 wynn
+
+![](figures/wynn6b.jpg)
+
+## the quiver: 70's twin 5'4 & thick
+
+![](figures/70stwin.jpg)
+
+## the quiver: 6'3 bill johnson
+
+![](figures/billJohnson.png)
+
+retired now but served well
+
+## Hurricane Cristobal: 2014
+
+![](figures/cristobal-models-11pm-0825-2014.jpg)
+
+beautiful track for ec surfers
+
+## Cristobal: 8/28/2014
+
+![](figures/cristobal_0_08_28_2014.jpg)
 
 # References {#reffont}

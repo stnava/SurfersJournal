@@ -66,7 +66,7 @@ surfing $\leftrightarrow$ philly
 
 ## the quiver: firewire vanguard
 
-![](figures/vanguard.jpg)
+![](figures/vanguard.png)
 
 ## the quiver: zouvi blowfish 5'8
 

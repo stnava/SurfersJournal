@@ -41,6 +41,8 @@ opts_chunk$set(fig.width=9, fig.height=6, fig.path=figpath,
 ```
 
 ## 
+Thanks to MH, MCA and JVG for these photos (along with various others)
+
 <div align="center"><img src="./logo.png" frameborder="0"></img></div>
 
 This talk is online at [http://stnava.github.io/SurfersJournal/](http://stnava.github.io/SurfersJournal/) with colored [links](http://stnava.github.io/SurfersJournal/) meant to be clicked for more information

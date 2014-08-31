@@ -1,6 +1,6 @@
 ---
 title: <span style="color:red;">A Surfer's Journal</span><br /> or<br /><span style="color:blue;">View from the Tube</span>
-author: Brian B. Avants
+author: Brainiac B. Stnava
 bibliography: REFERENCES.bib
 logo:    logo.png
 output:
@@ -44,7 +44,6 @@ opts_chunk$set(fig.width=9, fig.height=6, fig.path=figpath,
 <div align="center"><img src="./logo.png" frameborder="0"></img></div>
 
 This talk is online at [http://stnava.github.io/SurfersJournal/](http://stnava.github.io/SurfersJournal/) with colored [links](http://stnava.github.io/SurfersJournal/) meant to be clicked for more information
-
 
 ## hours before the sun
 
@@ -98,27 +97,75 @@ retired now but served well
 
 ![](figures/thanksgivingRight.jpg)
 
-November 2004
+November 2004: Casino Pier
 
 ## memorable waves from the past
 
+## my life in hawaii
+
+hawaii 
+
 ## memorable trips from the past
+
+costa rica
+
+## memorable trips from the past
+
+rio de janeiro
+
+## memorable trips from the past
+
+spain
+
+## memorable trips from the past
+
+france
+
+## memorable trips from the past
+
+ireland
+
+## memorable trips from the past
+
+scotland
+
+## memorable trips from the past
+
+east oz
+
+## memorable trips from the past
+
+south oz
+
+## memorable trips from the past
+
+puerto rico
+
+## one of many days in obsf
+
+![](figures/obsf_2012.png)
+
+## Longest ride: Steamer Lane
+
+![](./figures/LongSteamerLaneSurfingRideDec29_2012.png)
+
+## east coast trips from the past
 
 florida
 
-## memorable trips from the past
+## east coast trips from the past
 
 outer banks
 
-## memorable trips from the past
+## east coast trips from the past
 
 maine
 
-## memorable trips from the past
+## east coast trips from the past
 
 rhode island
 
-## memorable trips from the future
+## trips from the future
 
 lake superior ...
 

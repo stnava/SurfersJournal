@@ -47,6 +47,8 @@ Thanks to MH, MCA and JVG for these photos (along with various others)
 
 This talk is online at [http://stnava.github.io/SurfersJournal/](http://stnava.github.io/SurfersJournal/) with colored [links](http://stnava.github.io/SurfersJournal/) meant to be clicked for more information
 
+# hours before the sun
+
 ## hours before the sun
 
 alarm buoy wind
@@ -56,6 +58,8 @@ coffee oatmeal nuts friends boards
 leash wax suit boot gloves? 
 
 surfing $\leftrightarrow$ philly
+
+# quiver
 
 ## the quiver: firewire dominator
 
@@ -102,6 +106,12 @@ surfing $\leftrightarrow$ philly
 ![](figures/billJohnson.png)
 
 retired now but served well
+
+## quiver thoughts 
+
+FIXME
+
+# Waves Ridden
 
 ## memorable waves from the past
 
@@ -150,7 +160,7 @@ Daisy
 
 ![](figures/Brian3_Barrel_01resize.jpg)
 
-yes, i made it out.
+yes, made it out.
 
 
 ## memorable waves from the past
@@ -163,11 +173,33 @@ yes, i made it out.
 
 another special place
 
+## one of many days in obsf
+
+![](figures/obsf_2012.png)
+
+smallest day of this particular 2 week stretch
+
+## one cold day on LBI
+
+## asbury summer
+
+![](figures/Asbury_Surf_June_2012.png)
+
 ## memorable waves from the past
 
 ![](figures/steamer_lane2.jpg)
 
 another special place
+
+## memorable waves from the past
+
+![](figures/beach1-2014-04-27_carve.jpg)
+
+## memorable waves from the past
+
+![](figures/halikas_wide_wj.png)
+
+# MCA 
 
 ## hermano
 
@@ -177,15 +209,7 @@ another special place
 
 ![](figures/frankintense.png)
 
-
-
-## memorable waves from the past
-
-![](figures/beach1-2014-04-27_carve.jpg)
-
-## memorable waves from the past
-
-![](figures/halikas_wide_wj.png)
+# Should have been here yesterday
 
 ## my life in hawaii
 
@@ -227,19 +251,6 @@ south oz
 
 puerto rico
 
-
-## one of many days in obsf
-
-![](figures/obsf_2012.png)
-
-smallest day of this particular 2 week stretch
-
-## one cold day on LBI
-
-## asbury summer
-
-![](figures/Asbury_Surf_June_2012.png)
-
 ## Longest ride: Steamer Lane
 
 ![](./figures/LongSteamerLaneSurfingRideDec29_2012.png)
@@ -260,9 +271,13 @@ maine
 
 rhode island
 
+# Tomorrow
+
 ## trips from the future
 
 lake superior ...
+
+# 2014, summer and on ...
 
 ## Hurricane Cristobal: 2014
 
@@ -389,8 +404,8 @@ in san sebastian spain.   surfer was pretty far down the line and i almost dropp
 
 gabe kling in AC - impressive backside surfing on a clean waist to chest day.
 
-lots of guys at rocky point and pipe:   john john as a grom at pipe,  the mcnamara clan,  sunny garcia,  pancho, tom carroll, timmy curran ( at monster mush ),  flynn novak and i'm sure many more i wouldnt recognize.   sunny's a good guy to talk to like someone else on here said.   pancho was one of the guys i enjoyed watching most, in addition to carroll (90s and early 2000s).
+lots of guys at rocky point and pipe:   john john as a grom at pipe,  the mcnamara clan,  sunny garcia,  pancho, tom carroll, timmy curran ( at monster mush ),  flynn novak and i'm sure many more i wouldnt recognize.   sunny's a good guy - spoken with him a couple times.   pancho was one of the guys i enjoyed watching most, in addition to carroll (90s and early 2000s).
 
 and probably the best session was at biggish ocean beach sf trading waves with greg long .... just us in big a-frames on a sunny day
 
-# References {#reffont}
+# References
